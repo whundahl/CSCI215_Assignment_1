@@ -3,7 +3,7 @@
 ## Due 14 Sep 2017, 11:59pm
 
 * Create a folder in your personal CofC webspace called portfolio.
-* Inside of portfolio, create an **index.html** landing page which has a responsive design using the \<header\>, \<nav\>, \<section\>, \<footer\> special HTML5 divs. 
+* Inside of portfolio, create an **index.html** landing page which has a **responsive design** using the \<header\>, \<nav\>, \<section\>, \<footer\> special HTML5 divs. 
   * The index.html is a landing page for your portfolio of CofC work. 
   * The \<header\> area should have your name (you can omit last name if you like), degree, expected graduation date, professional/career goals/interests. A professional headshot type picture should be to the left of this text, and when the screen resolution is phone-size, the text should go below neatly.
    * The \<nav\> div should have links to the HOME page (index.html) and at least 3 courses you want to showcase in your portfolio.
