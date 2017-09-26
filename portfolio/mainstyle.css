@@ -1,0 +1,88 @@
+.container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: black;
+    color: azure;
+}
+
+.top{
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 100%; 
+}
+
+.leftcol {
+    float: left;
+    width: 50%;
+}
+
+headshot{
+ border: 10px;
+ width: 50%;
+}
+
+.rightcol { 
+   width: 50%;
+    min-height: 404px;
+    float: right; 
+}
+    
+@media (max-width: 600px) {
+        .rightcol { 
+        float: none; }
+}
+
+.line{
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+.line1{
+    padding-top: 50px;
+    padding-left: 10px;
+    font-style: italic;
+    font-size: 300%;
+    
+}
+
+.nav {
+    float: left;
+    width: 75%;
+    margin: 30px;
+    padding: 10px;
+    
+}
+
+@media (max-width: 600px) {
+        .nav { 
+        width: 50%; }
+}
+
+.button {
+    float: left;
+    margin: 20px;
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    
+}
+
+.section {
+    padding: 10px;
+    margin: 10px;
+    float: right; 
+}
+
+.foot {
+    float: left;
+    width: 75%;
+    margin: 30px;
+    padding: 10px;
+  
+    
+
+
